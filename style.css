@@ -7,3 +7,5 @@
 .button,.brandmark{background:var(--gold);color:var(--navy);font-weight:650}
 .tabs button.active{color:var(--navy)}
 .topline{font-weight:600}
+.topline{font-size:12px;line-height:1.5;letter-spacing:1.3px;gap:24px}
+@media(max-width:760px){.topline{font-size:11px;letter-spacing:1px}}
