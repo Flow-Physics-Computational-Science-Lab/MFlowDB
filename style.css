@@ -28,3 +28,5 @@ nav a[aria-current="page"]{color:var(--gold-dark);font-weight:700;text-decoratio
 .page-links p{font-size:12px}
 @media(max-width:900px){.page-links{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:620px){.content-page .section h1{font-size:34px}.page-links{grid-template-columns:1fr}.breadcrumb{margin-top:24px}}
+
+.topline>span:first-child{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:700;letter-spacing:0;text-transform:none;line-height:1.2}
