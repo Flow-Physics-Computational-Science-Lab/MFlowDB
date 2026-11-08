@@ -32,3 +32,5 @@ nav a[aria-current="page"]{color:var(--gold-dark);font-weight:700;text-decoratio
 .topline>span:first-child{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:700;letter-spacing:0;text-transform:none;line-height:1.2}
 
 .topline{align-items:center;gap:24px}.gt-top-brand{display:flex;align-items:center;flex-shrink:0}.gt-top-brand img{display:block;width:290px;max-width:100%;height:auto;filter:brightness(0) invert(1)}@media(max-width:600px){.gt-top-brand{flex-shrink:1}.gt-top-brand img{width:235px}.topline>span{max-width:45%;text-align:right}}
+
+.gt-top-brand{gap:12px}.gt-top-mark{display:block;width:78px;height:65px;overflow:hidden;flex:none}.gt-top-mark img{width:290px;max-width:none;height:auto}.gt-top-name{color:#fff;font-family:Georgia,"Times New Roman",serif;font-size:23px;font-weight:700;letter-spacing:0;line-height:1.2;white-space:nowrap}@media(max-width:700px){.topline{flex-wrap:wrap;gap:8px}.gt-top-name{font-size:clamp(13px,3.3vw,23px)}.gt-top-brand{gap:8px}.gt-top-mark{width:50px;height:42px}.gt-top-mark img{width:186px}.topline>span{max-width:100%;text-align:left}}
