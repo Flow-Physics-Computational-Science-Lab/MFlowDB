@@ -70,3 +70,5 @@ main p a,main li a{text-decoration:underline;text-underline-offset:2px}
 .hero-art{background:transparent;border:0;border-radius:0}
 
 .gt-reference-header a.center-header-name{width:auto;flex:0 1 auto}.gt-reference-header a.center-header-name:hover{text-decoration:underline;text-underline-offset:5px}
+
+.hero{padding-bottom:20px}.section.home-pages{padding-top:24px}
