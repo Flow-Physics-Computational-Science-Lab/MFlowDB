@@ -86,3 +86,5 @@ header nav a{font-weight:400}.facts strong,.brand{font-family:Roboto,"Helvetica 
 main p,.access p,.card p,.citation p,.method-grid p{font-size:17px!important;line-height:1.5!important}.small,.access .access-note,main p.small{font-size:13px!important}.card h3,.method-grid h3,.citation h3{font-size:24px}.access-steps h3{font-size:21px}table{font-size:14px}button,input,select{font-size:16px}
 
 .method-references{margin-top:24px}.method-references h4{font-family:din-2014,sans-serif;font-size:19px;font-weight:600;color:#003057;margin:0 0 10px}.method-references ol{margin:0;padding-left:22px}.method-references li{margin:8px 0;font-size:15px;overflow-wrap:anywhere}
+
+.method-grid>article>.tag{font-size:16px;letter-spacing:1.2px}.method-grid>article>p+p{margin-top:18px}
