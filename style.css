@@ -30,3 +30,5 @@ nav a[aria-current="page"]{color:var(--gold-dark);font-weight:700;text-decoratio
 @media(max-width:620px){.content-page .section h1{font-size:34px}.page-links{grid-template-columns:1fr}.breadcrumb{margin-top:24px}}
 
 .topline>span:first-child{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:700;letter-spacing:0;text-transform:none;line-height:1.2}
+
+.topline{align-items:center;gap:24px}.gt-top-brand{display:flex;align-items:center;flex-shrink:0}.gt-top-brand img{display:block;width:290px;max-width:100%;height:auto;filter:brightness(0) invert(1)}@media(max-width:600px){.gt-top-brand{flex-shrink:1}.gt-top-brand img{width:235px}.topline>span{max-width:45%;text-align:right}}
